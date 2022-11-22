@@ -1,5 +1,10 @@
 # Neural_Network_Charity_Analysis
-This analysis was done to help Alphabet Soup get a better idea of which applicants would be successful if their ideas and projects were accepted for funding by Alphabet Soup's Charity Foundation. Using data from 34,000+ previous applicants, I built a predicting model with over 70% accuracy.
+This analysis was done to help Alphabet Soup get a better idea of which applicants would be successful if their ideas and projects were accepted for funding by Alphabet Soup's Charity Foundation. Using data from 34,000+ previous applicants, I built a predicting model with over 70% accuracy over 100 epochs.
+
+
+![scere](https://user-images.githubusercontent.com/108035549/203441821-eb064c48-c5df-4916-96c8-815895c63337.png)
+
+
 
 ## Results
 - The IS_SUCCESSFUL Variable in the table was used as the dependent variable
